@@ -9,3 +9,11 @@ classification 발표
 - 3. 렌덤포레스트 - (한규탁)
 - 4. GBM, LightGBM - (박현지)
 - 5. XGBoost - (박현지)
+
+# Machine Learning 발표
+| 주차 | 주제 | 발표자 |
+| :--: | :--: | :--: |
+| Week 4 | DecisionTree | 박세환 |
+| Week 4 | Ensemble, Stacking Ensemble | 한규탁 |
+| Week 4 | GBM, LightGBM, XGBoost | 박현지 |
+| | | |
